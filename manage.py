@@ -1,4 +1,4 @@
-#!/usr/bin/env python hello
+#!/usr/bin/env python hello 12312312
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
